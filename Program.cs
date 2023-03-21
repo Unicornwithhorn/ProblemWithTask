@@ -27,7 +27,6 @@ for (int i = 0; i<=number/2;i+=1)
       break;
     }
 }
-
 System.Console.WriteLine(number);
 System.Console.WriteLine();
 System.Console.WriteLine(i);
