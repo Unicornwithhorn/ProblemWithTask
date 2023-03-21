@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\bin\Debug\net6.0\ProblemWithTask.exe
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\bin\Debug\net6.0\ProblemWithTask.deps.json
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\bin\Debug\net6.0\ProblemWithTask.runtimeconfig.json
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\bin\Debug\net6.0\ProblemWithTask.dll
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\bin\Debug\net6.0\ProblemWithTask.pdb
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ProblemWithTask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ProblemWithTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ProblemWithTask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ProblemWithTask.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ProblemWithTask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ProblemWithTask.dll
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\refint\ProblemWithTask.dll
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ProblemWithTask.pdb
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ProblemWithTask.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeworkGB\ProblemWithTask\obj\Debug\net6.0\ref\ProblemWithTask.dll
